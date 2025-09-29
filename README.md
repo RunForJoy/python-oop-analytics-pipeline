@@ -213,12 +213,12 @@ The script should display:
 - the fractions from `fractions()` method.
 
 Here is an example:
-```
-$ python3 first\_nest.py data.csv
-[[0, 1], [1, 0], [0, 1], [1, 0], [0, 1], [0, 1], [0, 1], [1, 0], [1,
-0], [0, 1], [1, 0], [0, 1]]
-5 7
-41.66666666666667 58.333333333333336
+```bash
+$ python3 first_nest.py data.csv
+[[0, 1], [1, 0], [0, 1], [1, 0], [0, 1], [0, 1], [0, 1], [1, 0], [0, 1], [1, 0], [0, 1]]
+5 6
+0.4545 0.5454
+
 ```
 
 ## Chapter VIII
