@@ -80,9 +80,9 @@ if __name__ == '__main__':
         calculated_data = Research.Calculations(data)
         heads, tails = calculated_data.counts()
         fraction_heads, fraction_tails = calculated_data.fractions()
-        analytics = Research.Analytics(data)
-        predicted_pairs = analytics.predict_random(3)
-        last_element = analytics.predict_last()
+        analytic_data = Research.Analytics(data)
+        predicted_pairs = analytic_data.predict_random(3)
+        last_element = analytic_data.predict_last()
 
         print(data)
         print(heads, tails)
