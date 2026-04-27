@@ -1,3 +1,14 @@
+help
+make_report copy.py
+report.txt
+test_telegram.py
+test_*.py
+__pycache__/
+*.pyc
+*.pyo
+*.md
+
+
 hints.md
 data.csv
 методы чтения.png

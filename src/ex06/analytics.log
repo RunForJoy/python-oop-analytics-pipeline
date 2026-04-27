@@ -1,0 +1,13 @@
+2026-04-27 13:35:00,561 Script started
+2026-04-27 13:35:00,562 Research initialized with path: C:\School21\DSB3_OOP_skills.ID_1577670-1\src\ex06\data.csv
+2026-04-27 13:35:00,562 Reading data from file: C:\School21\DSB3_OOP_skills.ID_1577670-1\src\ex06\data.csv
+2026-04-27 13:35:00,562 File read successfully, 12 rows parsed
+2026-04-27 13:35:00,562 Calculating the counts of heads and tails
+2026-04-27 13:35:00,562 Counts result: heads=7, tails=5
+2026-04-27 13:35:00,562 Calculating fractions
+2026-04-27 13:35:00,563 Raw fractions calculated: 0.5833, 0.4167
+2026-04-27 13:35:00,563 Generating 3 random predictions
+2026-04-27 13:35:00,568 Random predictions generated: [[0, 1], [1, 0], [0, 1]]
+2026-04-27 13:35:00,568 Saving report to file: report.txt
+2026-04-27 13:35:00,569 File saved successfully: C:\School21\DSB3_OOP_skills.ID_1577670-1\src\ex06\report.txt
+2026-04-27 13:35:05,606 Failed to deliver Telegram message: <urlopen error timed out>
