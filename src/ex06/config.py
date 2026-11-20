@@ -4,8 +4,8 @@ REPORT_FILENAME = "report"
 REPORT_EXTENSION = "txt"
 LOG_FILE = "analytics.log"
 
-TELEGRAM_BOT_TOKEN = "8295784916:AAEwR-fWLug6LkA1YrGDuIItPRfqZcNvsMo"
-TELEGRAM_CHAT_ID = "275282763"  
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"
 
 REPORT_TEMPLATE = (
     "В нашем эксперименте с подбрасыванием монеты из {total} наблюдений "
